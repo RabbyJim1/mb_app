@@ -10,7 +10,7 @@ black = "*"
 [packages]
 django = "==2.1.5"
 pylint = "*"
-gunicorn = "==19"
+gunicorn = "==19.5.0"
 
 [requires]
 python_version = "3.7"
